@@ -14,4 +14,5 @@ The primary objective of this assignment is to extract insightful analytics. Thi
 
 The following analytics is gained.
 
-![Uploading Graph_Result.png…]()
+![Result](Graph_Result-1.png)
+

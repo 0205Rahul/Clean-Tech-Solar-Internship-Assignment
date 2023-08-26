@@ -1,6 +1,6 @@
 # Clean-Tech-Solar-Internship-Assignment
 
-In the Clean-Tech Solar Internship Assignment, we were provided with a comprehensive dataset spanning from July 2019 to the present. The dataset encompasses three crucial input features:
+In the Clean-Tech Solar Internship Assignment, we were provided with a comprehensive dataset spanning from July 2019 to the March 2022. The dataset encompasses three crucial input features:
 
 1. **Date**: This represents the timeline, ranging from July 2019 till now.
 

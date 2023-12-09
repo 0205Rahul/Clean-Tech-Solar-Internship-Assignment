@@ -14,5 +14,5 @@ The primary objective of this assignment is to extract insightful analytics. Thi
 
 The following analytics is gained.
 
-![Result](Graph_Result.png)
+![Graph_Result](https://github.com/0205Rahul/Clean-Tech-Solar-Internship-Assignment/assets/108475337/747b2edc-53d9-4bed-a8cc-f4b2dde20752)
 
